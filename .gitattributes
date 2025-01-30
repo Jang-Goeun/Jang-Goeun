@@ -1,2 +1,4 @@
 *.lua linguist-vendored
 *.lua linguist-ignore
+*.Lua linguist-vendored
+*.Lua linguist-ignore
